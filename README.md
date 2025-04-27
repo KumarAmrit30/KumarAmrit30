@@ -86,7 +86,11 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
+<!-- Snake Game Repo View -->
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 📩 Hire Me / Collaborate
 I am open to collaboration opportunities and freelance work. Feel free to reach out through my [email](mailto:iamritkumarjha.30@gmail.com).
