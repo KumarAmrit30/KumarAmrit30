@@ -2,7 +2,7 @@
 
 **Full Stack Developer | AI-Powered Systems Builder | Flutter to Enterprise Web Specialist 🚀**
 
-*Delivered 35% revenue impact at MagicSell.ai | Scaling Real-World Applications | 300+ Problems Solved*
+*Delivered 35% revenue impact at MagicSell.ai | Scaling Real-World Applications | 400+ Problems Solved*
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amrit-k-jha) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iamritkumarjha@gmail.com)
@@ -96,7 +96,7 @@ Smart expense splitting app with real-time calculations and group management
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KumarAmrit30&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🎯 Problem Solving
-- **300+ Problems Solved** on LeetCode, CodeChef, and CodeForces
+- **400+ Problems Solved** on LeetCode, CodeChef, and CodeForces
 - **Consistent Daily Practice** with algorithmic problem-solving
 - **Open Source Contributor** with active Flutter community involvement
 
